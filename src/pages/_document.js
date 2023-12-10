@@ -4,8 +4,8 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head >
-    <link rel="shortcut icon" href="/static/favicon.ico" />
-    https://well-medic.com/categories/22
+    <link rel="shortcut icon" href="https://fra1.digitaloceanspaces.com/well-medic/ta5feed/categoryIconImg/aid_6134607.png" />
+    
     </Head>
       <body>
         <Main />
